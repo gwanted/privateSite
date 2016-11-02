@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/dgdn/json"
+	"encoding/json"
 	"io"
 	"net/http"
 )
